@@ -1,1 +1,13 @@
 /* Write your CSS here */
+.each-denomination {
+  list-style-type: none;
+  margin: 10px;
+}
+.button {
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  color: #c4c4c4;
+  width: 150px;
+  height: 35px;
+  cursor: pointer;
+}
